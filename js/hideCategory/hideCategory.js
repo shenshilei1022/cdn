@@ -18,5 +18,5 @@ for (var i = 0; i < card_category_list.length; i++) {
     card_category_list[i].style.display = "none";
     card_category_list[i].style.transition = "all 1s";
     card_category_list[i].previousSibling.innerHTML +=
-        '<i class="fa fa-caret-right menus-expand  menus-closed" aria-hidden="true" style="margin-left:20px;" onclick="toggle(this)"></i>';
+        '<i class="fa fa-caret-right menus-expand  menus-closed" aria-hidden="true" style="margin-left:-20px;" onclick="toggle(this)"></i>';
 }
