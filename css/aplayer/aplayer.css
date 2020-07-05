@@ -16,9 +16,9 @@
 .aplayer.aplayer-narrow .aplayer-body:hover{
     left: 0 !important;
 }
-/* .aplayer.aplayer-fixed .aplayer-lrc {
+.aplayer.aplayer-fixed .aplayer-lrc {
     display: none;
-} */
+}
 .aplayer .aplayer-lrc.aplayer-lrc-hide {
     display:none !important;
 }
