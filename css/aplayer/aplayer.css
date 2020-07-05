@@ -45,4 +45,13 @@
     position: fixed;
     /* bottom: 58px !important;
     left: -53px !important; */
+    bottom: 58px !important;
+}
+
+.list-display {
+    display: none !important;
+}
+
+.aplayer-icon {
+    border-radius: 0 6px 6px 0 !important;
 }
