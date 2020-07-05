@@ -38,9 +38,9 @@
     transition: all 0.3s ease;
     max-width: 400px; 
 }
-.aplayer.aplayer-withlist .aplayer-list {
+/* .aplayer.aplayer-withlist .aplayer-list {
     display: none; 
-}
+} */
 .aplayer.aplayer-fixed {
     position: fixed;
     /* bottom: 58px !important;
@@ -62,5 +62,5 @@
 
 .aplayer .aplayer-list.aplayer-list-hide {
     max-height: 0!important;
-    display: block !important;
+    display: none !important;
 }
