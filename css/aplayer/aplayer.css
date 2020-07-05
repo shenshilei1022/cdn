@@ -55,3 +55,12 @@
 .aplayer-icon {
     border-radius: 0 6px 6px 0 !important;
 }
+
+.aplayer-icon svg {
+    border-radius: 0 6px 6px 0 !important;
+}
+
+.aplayer .aplayer-list.aplayer-list-hide {
+    max-height: 0!important;
+    display: block !important;
+}
