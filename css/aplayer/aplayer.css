@@ -11,6 +11,10 @@
 }
 .aplayer.aplayer-narrow .aplayer-body{
     left: -66px !important;
+    transition: left 1s;
+}
+.aplayer.aplayer-narrow .aplayer-body:hover{
+    left: 0 !important;
 }
 /* .aplayer.aplayer-fixed .aplayer-lrc {
     display: none;
