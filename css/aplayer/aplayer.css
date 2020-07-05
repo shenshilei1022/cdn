@@ -43,6 +43,6 @@
 }
 .aplayer.aplayer-fixed {
     position: fixed;
-    bottom: 58px !important;
-    left: -53px !important;
+    /* bottom: 58px !important;
+    left: -53px !important; */
 }
